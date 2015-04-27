@@ -1,0 +1,12 @@
+C:\Users\ErdalDogukan\Desktop\asp\KutuhaneDB\KutuphaneDBSorgular\obj\Debug\KutuphaneDBSorgular.csprojResolveAssemblyReference.cache
+C:\Users\ErdalDogukan\Desktop\asp\KutuhaneDB\KutuphaneDBSorgular\bin\Debug\KutuphaneDBSorgular.dll.config
+C:\Users\ErdalDogukan\Desktop\asp\KutuhaneDB\KutuphaneDBSorgular\bin\Debug\KutuphaneDBSorgular.dll
+C:\Users\ErdalDogukan\Desktop\asp\KutuhaneDB\KutuphaneDBSorgular\bin\Debug\KutuphaneDBSorgular.pdb
+C:\Users\ErdalDogukan\Desktop\asp\KutuhaneDB\KutuphaneDBSorgular\bin\Debug\EntityFramework.dll
+C:\Users\ErdalDogukan\Desktop\asp\KutuhaneDB\KutuphaneDBSorgular\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ErdalDogukan\Desktop\asp\KutuhaneDB\KutuphaneDBSorgular\bin\Debug\KutuhaneDB.dll
+C:\Users\ErdalDogukan\Desktop\asp\KutuhaneDB\KutuphaneDBSorgular\bin\Debug\KutuhaneDB.pdb
+C:\Users\ErdalDogukan\Desktop\asp\KutuhaneDB\KutuphaneDBSorgular\bin\Debug\EntityFramework.xml
+C:\Users\ErdalDogukan\Desktop\asp\KutuhaneDB\KutuphaneDBSorgular\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ErdalDogukan\Desktop\asp\KutuhaneDB\KutuphaneDBSorgular\obj\Debug\KutuphaneDBSorgular.dll
+C:\Users\ErdalDogukan\Desktop\asp\KutuhaneDB\KutuphaneDBSorgular\obj\Debug\KutuphaneDBSorgular.pdb

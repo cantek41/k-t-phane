@@ -1,0 +1,10 @@
+C:\Users\ErdalDogukan\Desktop\asp\KutuhaneDB\KutuhaneDB\bin\Debug\KutuhaneDB.dll.config
+C:\Users\ErdalDogukan\Desktop\asp\KutuhaneDB\KutuhaneDB\bin\Debug\KutuhaneDB.dll
+C:\Users\ErdalDogukan\Desktop\asp\KutuhaneDB\KutuhaneDB\bin\Debug\KutuhaneDB.pdb
+C:\Users\ErdalDogukan\Desktop\asp\KutuhaneDB\KutuhaneDB\bin\Debug\EntityFramework.dll
+C:\Users\ErdalDogukan\Desktop\asp\KutuhaneDB\KutuhaneDB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ErdalDogukan\Desktop\asp\KutuhaneDB\KutuhaneDB\bin\Debug\EntityFramework.xml
+C:\Users\ErdalDogukan\Desktop\asp\KutuhaneDB\KutuhaneDB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ErdalDogukan\Desktop\asp\KutuhaneDB\KutuhaneDB\obj\Debug\KutuhaneDB.dll
+C:\Users\ErdalDogukan\Desktop\asp\KutuhaneDB\KutuhaneDB\obj\Debug\KutuhaneDB.pdb
+C:\Users\ErdalDogukan\Desktop\asp\KutuhaneDB\KutuhaneDB\obj\Debug\KutuhaneDB.csprojResolveAssemblyReference.cache

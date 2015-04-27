@@ -1,0 +1,81 @@
+﻿@model KutuhaneDB.BOOK
+
+@{
+    ViewBag.Title = "CreateBook";
+}
+
+<h2>CreateBook</h2>
+
+
+@using (Html.BeginForm()) 
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        <h4>BOOK</h4>
+        <hr />
+        @Html.ValidationSummary(true)
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.BARCODE, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.BARCODE)
+                @Html.ValidationMessageFor(model => model.BARCODE)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.STOCK, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.STOCK)
+                @Html.ValidationMessageFor(model => model.STOCK)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.ISBN_NO, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.ISBN_NO)
+                @Html.ValidationMessageFor(model => model.ISBN_NO)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.NAME, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.NAME)
+                @Html.ValidationMessageFor(model => model.NAME)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.DESCRIPTION, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.DESCRIPTION)
+                @Html.ValidationMessageFor(model => model.DESCRIPTION)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.PUBLISHER, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.PUBLISHER)
+                @Html.ValidationMessageFor(model => model.PUBLISHER)
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Create" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+<script src="~/Scripts/jquery.validate.min.js"></script>
+<script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
